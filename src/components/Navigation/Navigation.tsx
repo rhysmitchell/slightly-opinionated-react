@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-const Navigation = () => (
+const Navigation: React.FC = (): JSX.Element => (
   <Navbar bg="dark" variant="dark" expand="lg">
     <Navbar.Brand href="#home">Countries</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />

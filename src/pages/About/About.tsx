@@ -1,7 +1,7 @@
 import React from "react";
 import { Col } from "react-bootstrap";
 
-const About = () => (
+const About: React.FC = (): JSX.Element => (
   <Col>
     <h1>About</h1>
   </Col>

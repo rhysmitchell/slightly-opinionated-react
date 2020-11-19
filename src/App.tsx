@@ -6,7 +6,7 @@ import { Container } from "react-bootstrap";
 import { Route, Switch, BrowserRouter as Router } from "react-router-dom";
 import "styles.css";
 
-const App = () => (
+const App: React.FC = (): JSX.Element => (
   <div className="App">
     <Container fluid={true} style={{ paddingLeft: "0", paddingRight: "0" }}>
       <Router>
