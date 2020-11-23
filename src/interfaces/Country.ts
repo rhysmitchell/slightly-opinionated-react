@@ -1,9 +1,9 @@
 interface Country {
-    name: string;
-    capital: string;
-    region: string;
-    subRegion: string;
-    flag: string;
+  name: string
+  capital: string
+  region: string
+  subRegion: string
+  flag: string
 }
 
-export type { Country };
+export type { Country }

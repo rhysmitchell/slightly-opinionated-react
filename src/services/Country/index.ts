@@ -1,3 +1,3 @@
-import countryService from 'services/Country/countryService';
+import countryService from 'services/Country/countryService'
 
-export { countryService };
+export { countryService }
