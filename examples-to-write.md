@@ -5,5 +5,6 @@
 3. ~~TypeScript/ESLint/Prettier configs~~
 4. React Testing Library
 5. Cypress e2e tests
+6. css-in-js: emotion/styled components
 
 7. Bonus points: continuous integration
