@@ -6,6 +6,8 @@ This example is for developers that enjoy using the following things in their co
 - TypeScript
   
 - Functional Components
+
+- [Styled Components](https://github.com/styled-components/styled-components)
   
 - ESLint w/[Airbnb styleguide](https://github.com/airbnb/javascript/tree/master/react)
   
